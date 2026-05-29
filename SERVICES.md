@@ -120,7 +120,7 @@ Empresas de tecnologia gastam em média **R$ 180.000/ano** com:
 | Canal | Link / Contato |
 |:---|:---|
 | **LinkedIn** | [linkedin.com/in/alexandreclaudino](https://www.linkedin.com/in/alexandreclaudino) — Envie uma mensagem com o assunto "Documentação Técnica" |
-| **E-mail** | alexandre.claudino.profissional@gmail.com *(substitua pelo seu e-mail real)* |
+| **E-mail** | alexandre.claudino@outlook.com
 | **GitHub** | [github.com/aleclaudino17-collab](https://github.com/aleclaudino17-collab) — Abra uma Discussion neste repositório |
 
 > **Agenda de descoberta gratuita:** 30 minutos para entender seu cenário, identificar os maiores gaps e propor um roadmap inicial — sem compromisso.
